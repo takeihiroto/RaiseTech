@@ -4,7 +4,7 @@
 ## AP サーバーを終了させた場合、引き続きアクセスできますか？
 - できない
 ## AP サーバーを起動してください。
-![image](/RaiseTech/images/images-lecture03/20230630-sample-app-deploy.png)
+![image](/images/images-lecture03/20230630-sample-app-deploy.png)
 ## サンプルアプリケーションで使った DB サーバー（DB エンジン）の名前と、今 Cloud9 で動作しているバージョンはいくつか確認してみましょう。
 - mysql (8.0.33)
 ## DB サーバーを終了させた場合、引き続きアクセスできますか？
