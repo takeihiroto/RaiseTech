@@ -20,8 +20,8 @@
 
 ![rdsサブネットグループ](images/images-lecture04/rdsサブネットグループ.png)
 
-![rdsセキュリティ](images/images-lecture04/rdsセキュリティ.png)
+![rdsセキュリティ2](images/images-lecture04/rdsセキュリティ2.png)
 
 ## EC2からRDSへ接続
 
-![teratarm接続確認](images/images-lecture04/teratarm接続確認.png)
+![teratarm接続確認2](images/images-lecture04/teratarm接続確認2.png)
